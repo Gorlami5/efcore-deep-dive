@@ -18,11 +18,16 @@ Her konu, tek bir davranışı net şekilde gösterecek küçük ve anlamlı ör
 
 ## Neden önemli?
 
+-Tracker mekanizmasının doğru kullanımı
+-Kompleks sorguların yönetimi
+-Performans optimizasyonu için gerekli manevralar
+-Constrainlerin doğru uygulanması
+-Veri yapılarının ilişkilendirmelerindeki senaryolar
+-Indeksleme mekanizmaları
+-Seed data kullanımları
+-Derinlemesine Ef Core içerisindeki fonksiyonlar
 
-
-## Repository Yapısı
-
-Amaç, her örneğin tek başına okunup anlaşılabilmesidir.
+ve çok daha fazlasını içeren analiz yapıları bulunmakta.
 
 
 ## Örnekleri Çalıştırma
